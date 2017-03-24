@@ -3,4 +3,4 @@ what's this?
 
 another dev commit
 
-featureA
+featureA -- another change on featureA
